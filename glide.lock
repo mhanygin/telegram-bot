@@ -1,0 +1,8 @@
+hash: 1e85924c4d8014da5fb3b7f69749aa90eae5f981e2322e03f69267554efba266
+updated: 2017-06-28T13:59:23.957276915+03:00
+imports:
+- name: github.com/technoweenie/multipartstreamer
+  version: a90a01d73ae432e2611d178c18367fbaa13e0154
+- name: gopkg.in/telegram-bot-api.v4
+  version: 0a57807db79efce7f6719fbb2c0e0f83fda79aec
+testImports: []
